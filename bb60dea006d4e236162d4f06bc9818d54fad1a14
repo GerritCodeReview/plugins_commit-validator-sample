@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAALfH///6M\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2012-11-14T05:18:24Z",
+      "side": 1,
+      "message": "2009?",
+      "revId": "bb60dea006d4e236162d4f06bc9818d54fad1a14",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAALfH///6E\u003d",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/validators/HelloWorldValidator.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2012-11-14T05:18:24Z",
+      "side": 1,
+      "message": "nit: trailing whitespaces",
+      "revId": "bb60dea006d4e236162d4f06bc9818d54fad1a14",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAALfH///6I\u003d",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/validators/HelloWorldValidator.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2012-11-14T05:18:24Z",
+      "side": 1,
+      "message": "nit: trailing whitespaces",
+      "revId": "bb60dea006d4e236162d4f06bc9818d54fad1a14",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
